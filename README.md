@@ -73,3 +73,8 @@ I Am a Full Stack Developer.
    <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=paschalis777)](https://github.com/ryo-ma/github-profile-trophy)
+
