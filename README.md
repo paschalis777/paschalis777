@@ -1,16 +1,18 @@
 ### Hi there 👋
+<div align ="center">
+<img src= https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif width= "600" />
+<div>
+<a href="https://www.linkedin.com/in/paschalis-tsiolas-6a66608b" target= "_blank">
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-**paschalis777/paschalis777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<img src= "https://komarev.com/ghpvc/?username=paschalis777&style=flat-github-username)" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+### 👩🏼‍🦲: About me
+adsadasdasdasdasdsa
