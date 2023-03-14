@@ -56,10 +56,20 @@ I Am a Full Stack Developer.
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
          
           
-          
-          
-  
-          
-  
-  
-  </div>
+   </div>
+   
+   ---
+   
+   🔥 My Stats 
+   
+   [![GitHub Streak](https://streak-stats.demolab.com?user=paschalis777&theme=apprentice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   
+   
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalis777&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+   
+   ---
+   
+   <!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
