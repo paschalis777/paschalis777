@@ -78,8 +78,3 @@ I Am a Full Stack Developer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paschalis777)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 0efd8f167d5eb6bd842596216a666c26451befab
