@@ -29,7 +29,7 @@ I Am a Full Stack Developer.
   
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   
-  <img style="filter: invert(100%) sepia(100%) saturate(100%) hue-rotate(201deg) brightness(200%) contrast(95%);"  width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img style="filter: brightness(0) invert(1);" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
   
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   
@@ -78,4 +78,3 @@ I Am a Full Stack Developer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paschalis777)](https://github.com/ryo-ma/github-profile-trophy)
 
-ΟΚ SAVA
