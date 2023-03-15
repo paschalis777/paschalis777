@@ -29,7 +29,25 @@ I Am a Full Stack Developer.
   
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   
-  <img style="filter: brightness(0) invert(1);" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+ <div style="background: linear-gradient(white); background-size: 200% 100%; display: inline-block; padding: 10px; animation: cycle-bg 5s ease-in-out infinite;">
+    <img style="filter: brightness(0) invert(1);" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+<style>
+    @keyframes cycle-bg {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+</style>
+
+
   
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   
