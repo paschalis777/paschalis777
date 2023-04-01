@@ -14,7 +14,7 @@
 
 ### 👨‍💼: About me
 I Am a Full Stack Developer.
-- I Am  New On Github.
+- New On Github.
 - I Have 3 Year Of Experience as Software Engineer.
 - I Love To Work In Visual Studio With HTML & PYTHON & Wordpress Websites.
 - Ι Speak Greek, English, Russian.
