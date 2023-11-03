@@ -16,7 +16,9 @@
 I Am a Full Stack Developer.
 - New On Github.
 - I Have 3 Year Of Experience as Software Engineer.
-- I Love To Work In Visual Studio With HTML / CSS / Javascript / PYTHON & Wordpress Websites.
+- My favorites Languages is Python & Java (FastAPI)
+- I Love To Work In PyCharm and VScode.
+- I love To Make Websites in Wordpress.
 - Ι Speak Greek, English, Russian.
 - When Not Writing Code I Play Tennis With Friends And Read Books.
 
