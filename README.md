@@ -14,7 +14,6 @@
 
 ### 👨‍💼: About me
 I Am a Full Stack Developer.
-- New On Github.
 - I Have 3 Year Of Experience as Software Engineer.
 - My favorites Languages is Python & Java (FastAPI)
 - I Love To Work In PyCharm and VScode.
