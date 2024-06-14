@@ -16,8 +16,8 @@
 I Am FullStack Junior / MId  level Web Developer.
 - I Have 3 Year Of Experience In Backend Development.
 - My favorites Languages is Python & Java (FastAPI)
-- I Love To Work In PyCharm and VScode.
 - I love To Make Websites in Wordpress.
+- I Love To Work In PyCharm and VScode.
 - Ι Speak Greek, English, Russian.
 - When Not Writing Code I Play Tennis With Friends And Read Books.
 
