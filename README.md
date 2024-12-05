@@ -70,5 +70,7 @@ I am a **Full Stack Web Developer** with 5 years of experience in Backend Develo
   </a>
 </div>
 
+<img src="https://programming-quotes-api.herokuapp.com/quotes/random" alt="Programming Joke">
+
 
 
