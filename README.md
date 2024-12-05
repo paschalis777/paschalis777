@@ -69,3 +69,8 @@ I am a **Full Stack Web Developer** with 5 years of experience in Backend Develo
     <img src="https://github-profile-trophy.vercel.app/?username=paschalis777" />
   </a>
 </div>
+
+
+<a href="https://wakatime.com/@paschalis777">
+    <img src="https://wakatime.com/badge/user/xxxxx.svg" />
+</a>
