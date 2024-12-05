@@ -71,6 +71,4 @@ I am a **Full Stack Web Developer** with 5 years of experience in Backend Develo
 </div>
 
 
-<a href="https://wakatime.com/@paschalis777">
-    <img src="https://wakatime.com/badge/user/xxxxx.svg" />
-</a>
+
