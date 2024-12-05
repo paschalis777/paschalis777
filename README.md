@@ -70,8 +70,6 @@ I am a **Full Stack Web Developer** with 5 years of experience in Backend Develo
   </a>
 </div>
 
+---
 
 
-<div align="center">
-     <img src="https://official-joke-api.appspot.com/jokes/programming/random" alt="Random Programming Joke">
-</div>
