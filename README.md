@@ -73,7 +73,5 @@ I am a **Full Stack Web Developer** with 5 years of experience in Backend Develo
 
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
      <img src="https://official-joke-api.appspot.com/jokes/programming/random" alt="Random Programming Joke">
-  </a>
 </div>
