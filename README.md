@@ -70,7 +70,14 @@ I am a **Full Stack Web Developer** with 5 years of experience in Backend Develo
   </a>
 </div>
 
-<img src="https://programming-quotes-api.herokuapp.com/quotes/random" alt="Programming Joke">
+
+### 🤣 Fun Jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ή
+
+<img src="https://api.chucknorris.io/jokes/random" alt="Chuck Norris Fact">
 
 
 
