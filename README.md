@@ -10,7 +10,7 @@
 
 I am a **Full Stack Web Developer** with 5 years of experience in Backend Development.  
 - Passionate about **Python** & **Java** (FastAPI).  
-- Enjoy creating websites with **WordPress**.  
+- Enjoy creating websites with **WordPress** & **Magento**.  
 - Preferred development environments: **PyCharm** & **VSCode**.  
 - Languages spoken: **Greek**, **English**, **Russian**.  
 - When not coding, I enjoy playing tennis and reading books.
